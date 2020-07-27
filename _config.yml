@@ -1,2 +1,3 @@
 title: Блог начинающего кодера
 theme: jekyll-theme-hacker
+<button type="button" class="btn btn-primary">Primary</button>
